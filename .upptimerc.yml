@@ -18,6 +18,7 @@ status-website:
   cname: upptime.wdym.info
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: night
   name: Upptime
   introTitle: "**Upptime** running on upptime.wdym.info."
   introMessage: "Watching wdym.info pages"
