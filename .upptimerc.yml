@@ -4,9 +4,9 @@ repo: Upptime # The name of this repository
 
 sites:
   - name: Bio
-    url: https://undercurve.wdym.info
+    url: https://wdym.info
   - name: Blog
-    url: https://undercurve.wdym.info/blog
+    url: https://wdym.info/blog
   - name: Quoted
     url: https://quoted.wdym.info
   - name: Upptime
