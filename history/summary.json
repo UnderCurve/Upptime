@@ -4,9 +4,9 @@
     "url": "https://undercurve.wdym.info",
     "icon": "https://icons.duckduckgo.com/ip3/undercurve.wdym.info.ico",
     "slug": "bio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 252,
     "timeMonth": 211,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-13": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://undercurve.wdym.info/blog",
     "icon": "https://icons.duckduckgo.com/ip3/undercurve.wdym.info.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 79,
     "timeMonth": 93,
     "timeYear": 83,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-13": 0
+    }
   },
   {
     "name": "Quoted",
