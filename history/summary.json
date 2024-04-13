@@ -6,18 +6,16 @@
     "slug": "bio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
     "timeDay": 311,
     "timeWeek": 266,
     "timeMonth": 216,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2024-04-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -26,7 +24,7 @@
     "slug": "blog",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
+    "uptimeDay": "99.20%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
