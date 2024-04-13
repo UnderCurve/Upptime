@@ -11,31 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 311,
-    "timeWeek": 266,
-    "timeMonth": 216,
+    "timeDay": 316,
+    "timeWeek": 273,
+    "timeMonth": 219,
     "timeYear": 267,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Blog",
-    "url": "https://wdym.info/blog",
-    "icon": "https://icons.duckduckgo.com/ip3/wdym.info.ico",
-    "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 115,
-    "timeWeek": 91,
-    "timeMonth": 96,
-    "timeYear": 84,
-    "dailyMinutesDown": {
-      "2024-04-13": 11
-    }
   },
   {
     "name": "Quoted",
@@ -49,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 105,
+    "timeDay": 124,
     "timeWeek": 157,
-    "timeMonth": 186,
+    "timeMonth": 185,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -67,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 234,
-    "timeWeek": 204,
-    "timeMonth": 170,
+    "timeDay": 231,
+    "timeWeek": 207,
+    "timeMonth": 171,
     "timeYear": 183,
     "dailyMinutesDown": {}
   }
