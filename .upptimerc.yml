@@ -4,7 +4,9 @@ repo: Upptime # The name of this repository
 
 sites:
   - name: Bio
-    url: https://wdym.info
+    url: https://www.wdym.info
+  - name: shortlink.json
+    url: https://l.wdym.info
   - name: Quoted
     url: https://quoted.wdym.info
   - name: Upptime
