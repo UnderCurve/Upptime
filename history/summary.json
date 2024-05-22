@@ -22,19 +22,19 @@
     "url": "https://l.wdym.info",
     "icon": "https://icons.duckduckgo.com/ip3/l.wdym.info.ico",
     "slug": "shortlink-json",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 850,
-    "timeWeek": 373,
-    "timeMonth": 244,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 242,
+    "timeDay": 661,
+    "timeWeek": 363,
+    "timeMonth": 245,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-05-22": 0
+      "2024-05-22": 13
     }
   },
   {
