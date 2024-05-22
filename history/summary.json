@@ -22,18 +22,20 @@
     "url": "https://l.wdym.info",
     "icon": "https://icons.duckduckgo.com/ip3/l.wdym.info.ico",
     "slug": "shortlink-json",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 176,
-    "timeWeek": 209,
-    "timeMonth": 201,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 850,
+    "timeWeek": 373,
+    "timeMonth": 244,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2024-05-22": 0
+    }
   },
   {
     "name": "Quoted",
