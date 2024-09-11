@@ -1,7 +1,7 @@
 url: $GITEA_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-11T16:46:57.344Z
+status: up
+code: 200
+responseTime: 857
+lastUpdated: 2024-09-11T17:37:09.467Z
 startTime: 2024-06-21T01:51:57.740Z
 generator: Upptime <https://github.com/upptime/upptime>
